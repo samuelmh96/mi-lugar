@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mi Lugar</title>
-    <link>http://example.org/posts/</link>
+    <link>https://samuelmh96.github.io/mi-lugar/posts/</link>
     <description>Recent content in Posts on Mi Lugar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 04 Jun 2020 16:13:23 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samuelmh96.github.io/mi-lugar/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bienvenidos a Hugo</title>
-      <link>http://example.org/posts/bienvenidos-a-hugo/</link>
+      <link>https://samuelmh96.github.io/mi-lugar/posts/bienvenidos-a-hugo/</link>
       <pubDate>Thu, 04 Jun 2020 16:13:23 -0400</pubDate>
       
-      <guid>http://example.org/posts/bienvenidos-a-hugo/</guid>
+      <guid>https://samuelmh96.github.io/mi-lugar/posts/bienvenidos-a-hugo/</guid>
       <description>bienvenido samuel</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://samuelmh96.github.io/mi-lugar/posts/primer-post/</link>
       <pubDate>Thu, 04 Jun 2020 16:10:16 -0400</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://samuelmh96.github.io/mi-lugar/posts/primer-post/</guid>
       <description>esto seria mi primer post</description>
     </item>
     

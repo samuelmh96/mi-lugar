@@ -3,36 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/bienvenidos-a-hugo/</loc>
+    <loc>https://samuelmh96.github.io/mi-lugar/</loc>
+    <lastmod>2020-06-04T18:08:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelmh96.github.io/mi-lugar/post/</loc>
+    <lastmod>2020-06-04T18:08:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelmh96.github.io/mi-lugar/post/prueba-nueva/</loc>
+    <lastmod>2020-06-04T18:08:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samuelmh96.github.io/mi-lugar/posts/bienvenidos-a-hugo/</loc>
     <lastmod>2020-06-04T16:13:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://samuelmh96.github.io/mi-lugar/posts/</loc>
     <lastmod>2020-06-04T16:13:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-06-04T16:13:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/primer-post/</loc>
+    <loc>https://samuelmh96.github.io/mi-lugar/posts/primer-post/</loc>
     <lastmod>2020-06-04T16:10:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://samuelmh96.github.io/mi-lugar/contacto/</loc>
     <lastmod>2020-06-04T15:45:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://samuelmh96.github.io/mi-lugar/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://samuelmh96.github.io/mi-lugar/tags/</loc>
   </url>
   
 </urlset>

@@ -2,39 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi Lugar</title>
-    <link>http://example.org/</link>
+    <link>https://samuelmh96.github.io/mi-lugar/</link>
     <description>Recent content on Mi Lugar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 04 Jun 2020 16:13:23 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 18:08:14 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samuelmh96.github.io/mi-lugar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Prueba Nueva</title>
+      <link>https://samuelmh96.github.io/mi-lugar/post/prueba-nueva/</link>
+      <pubDate>Thu, 04 Jun 2020 18:08:14 -0400</pubDate>
+      
+      <guid>https://samuelmh96.github.io/mi-lugar/post/prueba-nueva/</guid>
+      <description>esto es una nueva prueva -samuel</description>
+    </item>
+    
+    <item>
       <title>Bienvenidos a Hugo</title>
-      <link>http://example.org/posts/bienvenidos-a-hugo/</link>
+      <link>https://samuelmh96.github.io/mi-lugar/posts/bienvenidos-a-hugo/</link>
       <pubDate>Thu, 04 Jun 2020 16:13:23 -0400</pubDate>
       
-      <guid>http://example.org/posts/bienvenidos-a-hugo/</guid>
+      <guid>https://samuelmh96.github.io/mi-lugar/posts/bienvenidos-a-hugo/</guid>
       <description>bienvenido samuel</description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/posts/primer-post/</link>
+      <link>https://samuelmh96.github.io/mi-lugar/posts/primer-post/</link>
       <pubDate>Thu, 04 Jun 2020 16:10:16 -0400</pubDate>
       
-      <guid>http://example.org/posts/primer-post/</guid>
+      <guid>https://samuelmh96.github.io/mi-lugar/posts/primer-post/</guid>
       <description>esto seria mi primer post</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>https://samuelmh96.github.io/mi-lugar/contacto/</link>
       <pubDate>Thu, 04 Jun 2020 15:45:21 -0400</pubDate>
       
-      <guid>http://example.org/contacto/</guid>
+      <guid>https://samuelmh96.github.io/mi-lugar/contacto/</guid>
       <description>Hugo App - Lo que necesites a domicilio.
 lo que quieras!
 ¡La primera aplicación móvil que te permite ordenar comida de tus restaurantes favoritos, bebidas, transporte, medicinas, supermercados y más en un solo lugar! &amp;hellip;
